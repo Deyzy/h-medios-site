@@ -2,7 +2,7 @@
 
   # Hémedios
   
-  Hémedios é um app criado para realizar cronograma de medicações. >
+  Hémedios é um app criado para realizar cronograma de medicações.
  
  </div>
 
